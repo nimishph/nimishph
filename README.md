@@ -3,7 +3,7 @@
 
 - 📱 I’m currently working on Simple Text Editor for Android Devices
 - 🌱 I’m currently learning Frontend Development
-- 📫 How to reach me: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nimishph"><a class="LI-simple-link" href='https://in.linkedin.com/in/nimishph?trk=profile-badge'><img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="Nimish Phalnikar" height="25" width="25"/></a></div>
+- 📫 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nimishph"><a class="LI-simple-link" href='https://in.linkedin.com/in/nimishph?trk=profile-badge'><img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" alt="Nimish Phalnikar" height="25" width="25"/></a></div>
 
 <!--- <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 --->
