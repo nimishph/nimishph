@@ -3,5 +3,4 @@
 
 - 📱 I’m currently working on Simple Text Editor for Android Devices
 - 🌱 I’m currently learning Web Application Development
-- 📫 How to reach me: 
-### nimish.ph4@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/nimish-phalnikar-473180175/
